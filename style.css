@@ -30,3 +30,17 @@ section{
 .first-part{
     margin: 75px;
 }
+.lekha{
+    text-align: left ;
+    margin-left: 60px;
+}
+.imgg{
+    width: 50%;
+    margin-right: 10%;
+   
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
